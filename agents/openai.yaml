@@ -1,0 +1,4 @@
+interface:
+  display_name: "Minecraft 图片改绘"
+  short_description: "将照片、人物合影与建筑改绘为 Minecraft 方块世界和像素材质风格"
+  default_prompt: "使用 $minecraft-style-image-prompt，将我的照片整体改绘为 Minecraft 风格，保留原比例、主体关系与光照，生成一张。"
