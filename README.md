@@ -56,6 +56,10 @@ git clone https://github.com/d4yt1m3/minecraft-style-image-prompt.git ~/.codex/s
 
 生成式改绘可能改变面部、小字或结构细节；图片不等于可游玩的地图或原版搭建蓝图。
 
-## 许可
+## 来源与许可
 
-本仓库原创文本采用 [MIT License](LICENSE)，不包含用户照片、生成样图或游戏图片。Minecraft 及相关商标属于各自权利人；本项目与 Mojang、Microsoft 无隶属或背书关系。外链资料不包含在本仓库许可中。
+本项目沿用 [titanfall2-style-image-prompt](https://github.com/d4yt1m3/titanfall2-style-image-prompt) 中形成的照片改绘方法，并间接参考 [xiaoTN/zelda-style-image-prompt](https://github.com/xiaoTN/zelda-style-image-prompt) 的提示词组织方式。详见 [来源说明](NOTICE.md)。
+
+本项目采用 [MIT License](LICENSE)，保留上游 xiaotn 的版权声明，并为新增与修改内容保留 d4yt1m3 的署名。
+
+仓库不包含用户照片、生成样图或游戏图片。Minecraft 及相关商标属于各自权利人；本项目与 Mojang、Microsoft 无隶属或背书关系。外链资料不包含在本仓库许可中。
